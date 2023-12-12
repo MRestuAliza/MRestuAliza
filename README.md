@@ -1,16 +1,22 @@
-### Hi there 👋
+## 👋 Hi, my name is Restu
+### 👀 I like JS and backend development.
+### 📫 How to reach me 
+## mrestualizaakbar@gmail.com.
 
-<!--
-**MRestuAliza/MRestuAliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My currnet Web Projects
+[My Personal Website](https://muhrestualizaakbar.netlify.app) / [Github Link](https://github.com/MRestuAliza/personal-portfolio.git)
+- Frontend : ReactJs + Vite
+  - hosted via Netlify
 
-Here are some ideas to get you started:
+### My future projects
+Picturino (solo development)
+- Frontend
+  - Next Js
+- Backend
+  - Express Js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!---
+MRestuAliza/MRestuAliza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
