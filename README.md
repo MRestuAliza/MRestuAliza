@@ -9,7 +9,6 @@
   - hosted via Netlify
 
 ### My future projects
-Picturino (solo development)
 - Frontend
   - Next Js
 - Backend
